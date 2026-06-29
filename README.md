@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br><br>- Developing a personal Budget Tracker application with analytics, planning logic, and long-term financial insights.<br>- Automating workflows using LLMs, n8n, scraping, and JSON-driven pipelines.<br>- Building robust Ansible roles and scalable VPN stacks (ocserv, FreeRADIUS, Pi-hole, Suricata).
+🔭 I’m currently working on<br><br>- Developing a personal Budget Tracker [DynoBudget](https://dynobudget.com/) with analytics, planning logic, and long-term financial insights.<br>- Automating workflows using LLMs, n8n, scraping, and JSON-driven pipelines.<br>- Building robust Ansible roles and scalable VPN stacks (ocserv, FreeRADIUS, Pi-hole, Suricata).
 
 
 # 💻 Tech Stack:
